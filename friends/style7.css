@@ -1,0 +1,34 @@
+h1{
+text-align: center;
+font-size: 22px;
+}
+.das{
+font-style: italic;
+}
+h2{
+text-align: center;
+}
+#sto
+ {
+  text-align:center;
+  font-weight:bold;
+ }
+ .imh
+{
+background-color:blue;
+color:orange;
+}
+.rt
+{
+background-color:purple;
+color:grey;
+}
+
+.fan
+ {
+ background-color:black;
+color:red;
+ }
+.ks{
+text-align:right;
+}

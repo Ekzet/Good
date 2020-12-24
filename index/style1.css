@@ -1,0 +1,41 @@
+
+
+h1 {
+text-align: center;
+font-size: 24px;
+}
+
+p {
+font-size: 120%;
+}
+
+
+#one:link{
+color:green;
+}
+#two:link{
+color:blue;
+}
+#three:link{
+color:black;
+}
+#four:link{
+color:brown;
+}
+#one:visited{
+color:red;
+}
+#two:visited{
+color:purple;
+}
+#three:visited{
+color:yellow;
+}
+#four:visited{
+color:gray;
+}
+
+
+
+
+

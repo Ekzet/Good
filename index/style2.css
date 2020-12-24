@@ -1,0 +1,46 @@
+@media(min-width: 992px)
+{
+	
+
+
+
+
+
+
+
+
+
+
+}
+@media(min-width:768px) and (max-width:992px)
+{
+	
+	
+	div
+	{
+		width:200px;
+	}
+	
+	
+	
+	
+	
+}
+@media(max-width:768px)
+{
+	div
+	{
+		width:50px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

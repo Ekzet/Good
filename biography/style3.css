@@ -1,0 +1,68 @@
+h1{
+font-size: 22px;
+}
+.ml{
+font-style: italic;
+}
+h3
+{
+text-align: center;
+}
+
+.wic{
+display: inline-block;
+background:blue;
+color:white;
+}
+.wic:hover{
+ background:magenta;
+ color:white;
+}
+.wic:active{
+background:yellow;
+color: green;
+}
+span>a{
+font-weight: 700;
+text-decoration: none;
+}
+p{
+font-size: 120%;
+}
+h2{
+ font-size:140%;   
+}
+#kir{
+   text-transform:uppercase;
+}
+
+.jk
+{
+	background-color:brown;
+	border:1px solid black;
+}
+
+.po
+{
+	background-color:purple;
+	border:1px solid black;
+	
+}
+
+.cv
+{
+	background-color:blue;
+	border:1px solid black;
+}
+
+.lk
+{
+	background-color:orange;
+	border:1px solid black;
+}
+
+.nb
+{
+	background-color:gray;
+	border:1px solid black;
+}

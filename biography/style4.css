@@ -1,0 +1,69 @@
+@media(min-width: 992px)
+{
+	
+
+
+
+
+div
+{
+	width:30.3%;
+	float:left;
+	margin-left:3%
+
+}
+.oj
+{
+	float:left;
+	margin-right:100%;
+}
+	
+.tg
+{
+	float:left;
+	width:100%;
+	
+}
+
+
+
+}
+@media(min-width:768px) and (max-width:992px)
+{
+	
+	div
+{
+	width:50%;
+	float:left;
+
+}
+.oj
+{
+	float:left;
+	margin-right:100%;
+}
+	
+.tg
+{
+	float:left;
+	width:100%;
+	
+}
+	
+	
+	
+	
+}
+@media(max-width:768px)
+{
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
